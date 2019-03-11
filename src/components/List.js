@@ -8,7 +8,7 @@ class List extends Component {
     return (
       <div>
         <Item text="Make Todo" />
-        <Item text="Minecraft" />
+        <Item text="Finish Socket Project" />
         <Item text="Test" />
       </div>
     );
