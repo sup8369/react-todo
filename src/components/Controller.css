@@ -1,0 +1,30 @@
+.form {
+  padding: 1em;
+  display: flex;
+}
+.form > input {
+  border: 0;
+  flex: 1;
+  font-size: 1.6em;
+  font-weight: 600;
+  color: #6e6e6e;
+  border-bottom: 1px solid #ff6b6b;
+}
+
+.addBtn {
+  background: #ff6b6b;
+  padding: 1em;
+  font-weight: 800;
+  cursor: pointer;
+  margin-left: 1em;
+  border-radius: 10px;
+  color: #fff;
+
+  transition: all 0.2s ease 0.1s;
+}
+.addBtn:hover {
+  color: #ff6b6b;
+  background: #fff;
+  box-shadow: 0px 0px 0px 3px #ff6b6b;
+  transition: all 0.3s ease 0.1s;
+}
