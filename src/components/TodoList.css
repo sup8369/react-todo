@@ -9,10 +9,10 @@
   flex-grow: 1;
 }
 .title {
-  height: 200px;
+  height: 400px;
   font-size: 2.5rem;
   text-align: center;
-  line-height: 200px;
+  line-height: 400px;
   font-weight: 800;
   background: #ff6b6b;
   color: white;

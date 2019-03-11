@@ -4,10 +4,11 @@
 }
 .form > input {
   border: 0;
+  margin-left: 5px;
   flex: 1;
   font-size: 1.6em;
-  font-weight: 600;
-  color: #6e6e6e;
+  font-weight: 300;
+  color: #414141;
   border-bottom: 1px solid #ff6b6b;
 }
 
